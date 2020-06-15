@@ -1,2 +1,2 @@
 # NLP
-All NLP related cod
+All NLP related code
